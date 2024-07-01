@@ -27,7 +27,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tashdik-29&show_icons=true&locale=en&layout=compact" alt="tashdik-29" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tashdik-29&show_icons=true&locale=en" alt="tashdik-29" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tashdik-29&" alt="tashdik-29" /></p>
 
