@@ -15,6 +15,10 @@ This is the place where I opensource stuff and break things :rofl:
 - 👨‍💻 &nbsp;Read more about myself at [Tashdik-WEB]( https://portfolio-1-iota-sandy.vercel.app)
 - ⚡ Fun fact **I am funny and open minded 😉**
 
+<br />
+<br />
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
