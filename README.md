@@ -7,14 +7,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashdik-29&label=Profile%20views&color=0e75b6&style=flat" alt="tashdik-29" /> </p>
 
 
+This is the place where I opensource stuff and break things :rofl:
 
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **trk.ice153@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zMITfM6hdi392VHGHWyRObdfT6sUYObu/view?usp=sharing](https://drive.google.com/file/d/1zMITfM6hdi392VHGHWyRObdfT6sUYObu/view?usp=sharing)
-
+- 🔭 &nbsp;I’m currently working on myself :wink:
+- 🌱 &nbsp;I’m currently learning Next.js
+- 💬 &nbsp;Ask me about anything related to Javascript or React
+- 👨‍💻 &nbsp;Read more about myself at [Tashdik-WEB]( https://portfolio-1-iota-sandy.vercel.app)
 - ⚡ Fun fact **I am funny and open minded 😉**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
