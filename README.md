@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tashdikur Rahman Khan</h1>
-<h3 align="center">Junior Software Engineer • Full-Stack Web Developer • ICE Undergrad</h3>
+<h3 align="center">Junior Software Engineer • ICE Graduate</h3>
 
 <p align="center">
   <a href="https://tashdik-dev.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
@@ -76,14 +76,14 @@ Full-featured travel management platform with secure authentication, online paym
 
 **Tech:** Next.js · TypeScript · Redux Toolkit + RTK Query · Tailwind CSS · Express.js · MongoDB · Redis · JWT · SSLCommerz · Cloudinary
 
-🔗 [Live Demo](#) | [Client Repo](#) | [Server Repo](#)
+🔗 [Live Demo](https://tourlink-client.vercel.app) | [Client Repo](https://github.com/TASHDIK-29/TourLink-Frontend) | [Server Repo](https://github.com/TASHDIK-29/Tour-Management-Backend)
 
 #### 🎓 NoBunk — AI-Powered Attendance System
 Face-recognition attendance system using ArcFace embeddings and PostgreSQL vector search for real-time classroom detection and matching, with Celery + Redis powering async image processing and PDF generation.
 
 **Tech:** Next.js · TypeScript · Tailwind CSS · FastAPI · PostgreSQL · pgvector · Celery · Redis · DeepFace · SQLAlchemy
 
-🔗 [Live Demo](#) | [Source Code](#)
+🔗 [Live Demo](https://nobunk-gamma.vercel.app) | [Source Code](https://github.com/TASHDIK-29/NOBUNK-AI-Powered-Attendance-System)
 
 > ℹ️ Replace the `#` placeholders above with your actual project links.
 
